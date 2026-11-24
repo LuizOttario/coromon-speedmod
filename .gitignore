@@ -1,0 +1,18 @@
+# Só entra o que o mod precisa (lista de permitidos). O resto da pasta são
+# rascunhos, imagens geradas, anotações e textos extraídos do jogo.
+*
+!.gitignore
+!README.md
+!install.py
+!speedmod.lua
+!missions_data.lua
+!assist_data.lua
+!ui.lua
+!notify.lua
+!assist.lua
+!hud.lua
+!render_map.py
+!test/
+test/*
+!test/harness.lua
+!test/*_test.lua
